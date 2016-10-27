@@ -1,0 +1,7 @@
+www.delfi.lt,http://www.delfi.lt/rss/feeds/world.xml,World news
+www.alfa.lt,http://www.alfa.lt/rss.xml,Other
+www.delfi.lt,http://www.delfi.lt/rss/feeds/lithuania.xml,Lithuania
+www.delfi.lt,http://www.delfi.lt/rss/feeds/crime.xml,Daily news
+feeds.reuters.com,http://feeds.reuters.com/reuters/sportsNews,Sport
+www.delfi.lt,http://www.delfi.lt/rss/feeds/crime.xml,Other
+www.delfi.lt,http://www.delfi.lt/mokslas/rss/feeds/sugalvota-lietuvoje.xml,Science and IT

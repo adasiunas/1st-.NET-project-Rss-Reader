@@ -1,0 +1,9 @@
+C:\Users\Marius\Desktop\RssReader\rssReaderDemo\rssReaderDemo\bin\Debug\Rss Reader.exe.config
+C:\Users\Marius\Desktop\RssReader\rssReaderDemo\rssReaderDemo\bin\Debug\Rss Reader.exe
+C:\Users\Marius\Desktop\RssReader\rssReaderDemo\rssReaderDemo\bin\Debug\Rss Reader.pdb
+C:\Users\Marius\Desktop\RssReader\rssReaderDemo\rssReaderDemo\obj\Debug\Rss Reader.csprojResolveAssemblyReference.cache
+C:\Users\Marius\Desktop\RssReader\rssReaderDemo\rssReaderDemo\obj\Debug\rssReaderDemo.rssReader.resources
+C:\Users\Marius\Desktop\RssReader\rssReaderDemo\rssReaderDemo\obj\Debug\rssReader.Properties.Resources.resources
+C:\Users\Marius\Desktop\RssReader\rssReaderDemo\rssReaderDemo\obj\Debug\Rss Reader.csproj.GenerateResource.Cache
+C:\Users\Marius\Desktop\RssReader\rssReaderDemo\rssReaderDemo\obj\Debug\Rss Reader.exe
+C:\Users\Marius\Desktop\RssReader\rssReaderDemo\rssReaderDemo\obj\Debug\Rss Reader.pdb
